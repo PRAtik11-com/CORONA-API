@@ -1,0 +1,22 @@
+body{
+    position: relative;
+    transform: translate(-50, -50);
+    top: 50%;
+    left: 0%;
+    align-items: center;
+
+}
+.container{
+    width: 60%;
+    margin: 20px auto;
+}
+.center{
+    display: grid;
+    place-items: center;
+}
+#sub{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px 15px;
+}
